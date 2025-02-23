@@ -12,7 +12,7 @@ Bu proje, **Java** programlama dili kullanılarak geliştirilmiş bir **restoran
 -  **Grafiksel Arayüz (Swing)**: Restoranın anlık durumu görsel olarak takip edilebilir.
 -  **Optimizasyon (Brute Force Algoritması)**: Maksimum karı sağlamak için masa, garson ve aşçı sayıları optimize edilir.
 
-## 🛠 Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 - **Java** – Projenin geliştirme dili
 - **Swing** – Grafiksel kullanıcı arayüzü
